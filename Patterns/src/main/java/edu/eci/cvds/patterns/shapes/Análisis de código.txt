@@ -1,0 +1,15 @@
+RegulaShapeType     ----------------------------------------
+
+- Esta función hace uso de enumeraciones de java.
+- Las enumeraciones funcionan como un tipo de lista, definimos la
+  función con dichos elementos dentro.
+- Para hacer uso de esto digitamos Clase nombreVariable = Clase.NombreDelElemento
+
+Shapes main         ----------------------------------------
+
+- Tenemos un condicional que valida si el parametro ingresado es
+  correcto para poder la figura dado los lados.
+- Si sale error por algún dato erroneo en el parametro de la función.
+- Creamos un objeto regular mandando el nombre del objeto como parámetro.
+- En dado caso que capturemos una excepción mostraremos un mensaje 
+  diciendo que no pudimos crear la figura.
